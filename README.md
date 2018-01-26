@@ -6,8 +6,12 @@ This repo contains a series of Word Search games for the Spanish language.
 
 ## Clothes/Ropa
 
+- [Puzzle PDF](WordSearch_Clothes_001.pdf)
+
 ## Colors/Colores
 
-- [Puzzle #1](WordSearchColors_001.pdf)
+- [Puzzle PDF](WordSearchColors_001.pdf)
 
 ## Food/Comida
+
+- [Puzzle PDF](WordSearch_Food_001.pdf)
